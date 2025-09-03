@@ -2,7 +2,7 @@ Here’s a simple example of a **README.md file description** that you can adapt
 
 ---
 
-# Bookstore Management System
+# Bookstore Management
 
 A **web-based application** that helps manage books, customers, and sales for a bookstore. The system allows administrators to add, update, and delete books, manage customer records, and track purchases. It is designed to be **lightweight, easy to use, and accessible from anywhere** with a login.
 
